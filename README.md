@@ -4,7 +4,7 @@
 
 # Butane
 
-**An experimental ORM for Rust with a focus on simplicity and on writing Rust, not SQL**
+**A simplistic ORM for Rust with a focus on simplicity and on writing Rust, not SQL**
 
 Butane takes an object-oriented approach to database operations. It
 may be thought of as much as an object-persistence system as an ORM --
